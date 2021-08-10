@@ -4,6 +4,7 @@ CGStudy is the material(lecture notes and example codes) repository for learning
 
 ## Books
 
+- Computer Graphics from Scratch: A Programmer's Introduction to 3D Rendering (No Starch Press, 2021)
 - Fundamentals of Computer Graphics, 5th Edition (A K Peters/CRC Press, 2021)
 - Advanced Global Illumination, 2nd Edition (A K Peters/CRC Press, 2020)
 - Real-Time Rendering, 4th Edition (A K Peters/CRC Press, 2018)
