@@ -4,7 +4,7 @@ CGStudy is the material(lecture notes and example codes) repository for learning
 
 ## Books
 
-- Fundamentals of Computer Graphics, 4th Edition (A K Peters/CRC Press, 2015)
+- Fundamentals of Computer Graphics, 5th Edition (A K Peters/CRC Press, 2021)
 - Advanced Global Illumination, 2nd Edition (A K Peters/CRC Press, 2020)
 - Real-Time Rendering, 4th Edition (A K Peters/CRC Press, 2018)
 - Physically Based Rendering: From Theory to Implementation, 4th Edition (Morgan Kaufmann, 2022)
