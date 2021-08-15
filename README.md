@@ -15,7 +15,6 @@ CGStudy is the material(lecture notes and example codes) repository for learning
 ## Optional Readings
 
 - Foundations of 3D Computer Graphics (The MIT Press, 2012)
-- Computer Graphics from Scratch: A Programmer's Introduction to 3D Rendering (No Starch Press, 2021)
 - GPU Pro: Advanced Rendering Techniques (A K Peters/CRC Press, 2010)
 - GPU Pro 2: Advanced Rendering Techniques (A K Peters/CRC Press, 2010)
 - GPU Pro 3: Advanced Rendering Techniques (A K Peters/CRC Press, 2011)
